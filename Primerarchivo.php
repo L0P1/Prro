@@ -1,5 +1,5 @@
 <? php
-$NombrePersona="Amdy"
+$NombrePersona="Andy"
 echo " Hola  " , $NombrePersona
 
 
