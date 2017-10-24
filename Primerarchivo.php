@@ -1,4 +1,4 @@
 <? php
 $NombrePersona="Andy";
-echo " Hola  "  .$NombrePersona;
+echo " Hola  ".$NombrePersona;
 ?>
